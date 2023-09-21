@@ -1,3 +1,6 @@
+
+<img width="647" alt="Screenshot 2023-09-21 at 18 16 20" src="https://github.com/3m12/mail-sender-app/assets/51341253/30442480-6fb1-4195-b991-6dc5b9265ab8">
+
 # mail-sender-app
 Welcome to the  mail sender app 
 
